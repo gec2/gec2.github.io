@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #headerwrap4 {
-	background: url(../img/resources2.jpg) no-repeat center top;
+	background: url(../img/school.jpg) no-repeat center top;
 	margin-top: 50px;
 	padding-top:80px;
 	text-align:center;
@@ -452,6 +452,20 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: 8px;
 }
 
+#headerwrap4 h1 {
+	color:#FFFFFF;
+	margin-top: 0px;
+	padding-bottom: 30px;
+	letter-spacing: 8px;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+#headerwrap4 h3 {
+	color:#FFFFFF;
+	font-size: 20px;
+}
+
 #headerwrap5 h2 {
 	color:#FFFFFF;
 	margin-top: 50px;
@@ -510,8 +524,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {
-	margin-top: 100px;
-	margin-bottom: 80px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 #aboutwrap2 {
 	margin-top: 100px;
@@ -832,6 +846,19 @@ h1, h2, h3, h4, h5, h6 {
 .fa-heart {
 	color: #FF95B0;
 }
+
+.fa-graduation-cap {
+	color: #ffffff;
+}
+
+.fa-university {
+	color: #ffffff;
+}
+
+.fa-bar-chart {
+	color: #ffffff;
+}
+
 
 
 .thumbnail { background: #fff; }

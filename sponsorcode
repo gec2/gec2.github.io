@@ -1,0 +1,18 @@
+<div id="testimonials2">
+	<div class="container">
+		<div class="row">
+			<center><h1>SPONSORS & SUPPORTERS</h1></center>
+			<center><div class="name-zig"></div></center>
+			<center><div class="col-md-4"><a href="http://www.generalcapitalgroup.com/"><img class="img-responsive" src="assets/img/gcg.png"></a><br/></div></center>
+			<center><div class="col-md-4"><a href="https://www.wheda.com/"><img class="img-responsive" src="assets/img/wheda.png"></a></div></center>
+			<center><div class="col-md-4"><a href="http://searium.net/"><img class="img-responsive" src="assets/img/seariumlogo.png"></a></div></center>
+		</div>
+		<br/>
+		<div class="row">
+			<center><div class="col-md-4"><a href="https://www.zoomshift.com/"><img class="img-responsive" src="assets/img/zoomshiftlogo.png"></a></div></center>
+			<center><div class="col-md-4"><a href="https://www.heritagecu.org//"><img class="img-responsive" src="assets/img/hcu.png"></a></div></center>
+			<center><div class="col-md-4"><a href="http://www.centare.com/"><img class="img-responsive" src="assets/img/centare.png"></a></div></center>
+		</div><! --/row -->
+		<br/>
+	</div><! --/container -->
+</div><! --/testimonials -->
